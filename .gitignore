@@ -1,0 +1,116 @@
+# Ignore node_modules directory
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+
+# Ignore testing directories
+/frontend/.testing
+
+# Ignore production directories
+/frontend/.production
+
+# Ignore build directories
+/frontend/build
+
+# Ignore misc directories
+/frontend/# misc
+
+# Ignore macOS-specific files
+/frontend/.DS_Store
+
+# Ignore environment variable files
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Ignore debug logs
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Ignore lock files
+/frontend/pnpm-lock.yaml
+/frontend/yarn.lock
+
+# Ignore coverage directory
+/frontend/coverage
+
+# Ignore IDE specific directories and files
+/.idea
+/.vscode
+.DS_Store
+
+# Ignore production build directory
+/frontend/build
+
+# Ignore miscellaneous
+/frontend/# production
+/frontend/# misc
+
+
+/my-project/.DS_Store
+/my-project/.AppleDouble
+/my-project/.LSOverride
+/my-project/Icon
+/my-project/.Spotlight-V100
+/my-project/.Trashes
+/my-project/._*
+/my-project/Thumbs.db
+/my-project/ehthumbs.db
+/my-project/Desktop.ini
+/my-project/$RECYCLE.BIN/
+/my-project/*.cab
+/my-project/*.msi
+/my-project/*.msm
+/my-project/*.msp
+/my-project/*.7z
+/my-project/*.csv
+/my-project/*.dat
+/my-project/*.dmg
+/my-project/*.gz
+/my-project/*.iso
+/my-project/*.jar
+/my-project/*.rar
+/my-project/*.tar
+/my-project/*.zip
+/my-project/*.com
+/my-project/*.class
+/my-project/*.dll
+/my-project/*.exe
+/my-project/*.o
+/my-project/*.seed
+/my-project/*.so
+/my-project/*.swo
+/my-project/*.swp
+/my-project/*.swn
+/my-project/*.swm
+/my-project/*.out
+/my-project/*.pid
+/my-project/.tmp
+/my-project/*.log
+/my-project/*.sql
+/my-project/*.sqlite
+/my-project/*.sqlite3
+/my-project/*#
+/my-project/ssl
+/my-project/.idea
+/my-project/nbproject
+/my-project/public/uploads/*
+/my-project/!public/uploads/.gitkeep
+/my-project/lib-cov
+/my-project/lcov.info
+/my-project/pids
+/my-project/logs
+/my-project/results
+/my-project/node_modules
+/my-project/.node_history
+/my-project/coverage
+/my-project/.env
+/my-project/license.txt
+/my-project/exports
+/my-project/.strapi
+/my-project/dist
+/my-project/build
+/my-project/.strapi-updater.json
+/my-project/.strapi-cloud.json
